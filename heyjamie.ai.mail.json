@@ -8,6 +8,7 @@
   "description": "Automatically configure DNS records for HeyJamie AI email service",
   "variableDescription": "Configure DKIM signing, SPF and bounce handling records",
   "syncPubKeyDomain": "heyjamie.ai",
+  "syncBlock": false,
   "records": [
     {
       "type": "TXT",
